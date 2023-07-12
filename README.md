@@ -42,7 +42,7 @@ This walkthrough will build intuition for network file shares and permissions af
 <img width="1439" alt="FP 9" src="https://github.com/montrequonwheeler/network-file-shares-and-permissions/assets/127397594/3f765460-2689-48fe-aac2-7e0efcbb3082">
 <img width="1440" alt="FP 11" src="https://github.com/montrequonwheeler/network-file-shares-and-permissions/assets/127397594/cf6bbd9b-c312-4081-a152-1e0299d87db5">
 
-- This message should appear if you try to create/write anything new outside of client-1 permissions
+- This message should appear if you try to create/write anything new, or access anything outside of client-1 permissions
 
 <h2>Create an “ACCOUNTANTS” Security Group, assign permissions, an test access</h2>
 
